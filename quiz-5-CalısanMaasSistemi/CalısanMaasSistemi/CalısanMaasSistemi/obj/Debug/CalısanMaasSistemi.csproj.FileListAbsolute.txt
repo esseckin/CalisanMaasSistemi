@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\CalısanMaasSistemi\CalısanMaasSistemi\bin\Debug\CalısanMaasSistemi.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\CalısanMaasSistemi\CalısanMaasSistemi\bin\Debug\CalısanMaasSistemi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\CalısanMaasSistemi\CalısanMaasSistemi\bin\Debug\CalısanMaasSistemi.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\CalısanMaasSistemi\CalısanMaasSistemi\obj\Debug\CalısanMaasSistemi.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\CalısanMaasSistemi\CalısanMaasSistemi\obj\Debug\CalısanMaasSistemi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\CalısanMaasSistemi\CalısanMaasSistemi\obj\Debug\CalısanMaasSistemi.pdb
+D:\alıstırmalar\projeler\CalısanMaasSistemi\CalısanMaasSistemi\bin\Debug\CalısanMaasSistemi.exe.config
+D:\alıstırmalar\projeler\CalısanMaasSistemi\CalısanMaasSistemi\obj\Debug\CalısanMaasSistemi.exe
+D:\alıstırmalar\projeler\CalısanMaasSistemi\CalısanMaasSistemi\obj\Debug\CalısanMaasSistemi.pdb
+D:\alıstırmalar\projeler\CalısanMaasSistemi\CalısanMaasSistemi\obj\Debug\CalısanMaasSistemi.csprojResolveAssemblyReference.cache
